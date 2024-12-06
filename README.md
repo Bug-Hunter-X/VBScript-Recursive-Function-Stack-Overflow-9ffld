@@ -1,0 +1,1 @@
+This repository contains a VBScript example demonstrating a stack overflow error caused by unbounded recursion. The original code attempts to calculate the factorial of a number using recursion but lacks a proper termination condition. The solution demonstrates how to handle this by using iteration to calculate the factorial and avoid stack overflow.
